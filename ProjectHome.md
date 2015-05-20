@@ -1,0 +1,1 @@
+This is parser written in java for parsing mail in mime messages standard
